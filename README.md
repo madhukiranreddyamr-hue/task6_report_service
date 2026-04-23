@@ -15,3 +15,5 @@ This project generates daily activity reports using Flask.
 ## How to Run
 pip install -r requirements.txt
 python app.py
+Project using Python, Flask and MySQL database.
+Includes CRUD operations and microservice structure.
