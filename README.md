@@ -9,11 +9,11 @@ This project generates daily activity reports using Flask.
 - Modular repository structure
 
 ## Technologies Used
-- Python
-- Flask
+- Project using Python, Flask and MySQL database.
+Includes CRUD operations and microservice structure.
+
 
 ## How to Run
 pip install -r requirements.txt
 python app.py
-Project using Python, Flask and MySQL database.
-Includes CRUD operations and microservice structure.
+
